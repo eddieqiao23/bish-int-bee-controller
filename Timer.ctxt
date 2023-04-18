@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Timer
+comment1.params=frame
+comment1.target=Timer(DisplayFrame)
+comment2.params=seconds
+comment2.target=void\ startTimer(int)
+comment3.params=
+comment3.target=void\ run()
+numComments=4

@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=ViewController
+comment1.params=number
+comment1.target=java.lang.String\ getFileName(int)
+comment10.params=frame
+comment10.target=void\ setControllerFrame(ControllerFrame)
+comment2.params=filename
+comment2.target=ViewController(java.lang.String)
+comment3.params=
+comment3.target=Integral\ getActiveIntegral()
+comment4.params=
+comment4.target=java.util.ArrayList\ getAllIntegrals()
+comment5.params=val
+comment5.target=void\ setActiveIntegral(int)
+comment6.params=
+comment6.target=void\ toggleAnswer()
+comment7.params=
+comment7.target=boolean\ getDisplayingAnswer()
+comment8.params=player1\ score1\ player2\ score2
+comment8.target=void\ updateScoreBoard(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment9.params=frame
+comment9.target=void\ setDisplayFrame(DisplayFrame)
+numComments=11
