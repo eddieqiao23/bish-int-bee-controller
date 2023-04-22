@@ -18,7 +18,7 @@ public class ViewController{
         while(strNum.length() < 3){
             strNum = "0" + strNum;
         }
-        return Launcher.PDF_FILENAME + "-page-" + strNum + ".png";
+        return Launcher.PDF_FILENAME + "-page-" + strNum + ".jpg";
     }
     
     public ViewController(String filename){
